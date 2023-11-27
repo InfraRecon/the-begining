@@ -19,3 +19,14 @@ Owners Terms:
 - By Downloading this repository you accept the licensing and owners' terms of use -
 
 Thank you for Downloading, and I hope this helps in some way or form.
+
+HOW DO I PLAY THE GAME?
+- Download and install Brackets on a Compatible PC
+- Download & Unzip The Game Project from GitHub | All Files should be Exposed (You should see an index.html file in the folder)
+- Open Brackets
+- Drag the FOLDER onto the Brackets Sidebar (Where you see all of the default content when opening Brackets)
+- OR Use the file option to open the Folder
+- Click on the index File and then press the Lightning bolt on the right side of the Brackets Browser
+- *It might give you an option to preview, just say yes.
+- Then your default browser should open the game (Brackets is Compatible with any HTML 5 Browser but I recommend either Chrome or Firefox)
+- Have Fun!!
